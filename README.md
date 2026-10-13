@@ -1,5 +1,3 @@
-# ITAI-1371-ML-Lab8
-
 # ITAI 1371 - Lab 08: Bias-Variance Tradeoff
 
 **Link:** https://github.com/W216988275/ITAI-1371-ML-Lab8.git
